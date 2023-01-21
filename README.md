@@ -9,7 +9,7 @@ Here you can find my personal projects. Feel free to check them out!
 
 🎓 I'm currently pursuing an [MSc in Financial Engineering](https://www.wqu.edu/programs/mscfe/) at [World Quant University](https://www.wqu.edu/)
 
-🚀 Here on GitHub I work on personal projects to develop my skills as a Financial Engineer / Data Scientist and Quantitative Developer.
+🚀 Here on GitHub I work on personal projects to develop my skills as a Data Engineer / Quantitative Developer.
 
 <!--
 **ivarurdalen/ivarurdalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
